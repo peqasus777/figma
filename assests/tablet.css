@@ -1,0 +1,142 @@
+.tablet {
+  position: relative;
+  width: 834px;
+  height: 633px;
+  background: #ffff;
+}
+
+.ttext1 {
+  position: absolute;
+  width: 211.4px;
+  height: 53.86px;
+  left: 72px;
+  top: 56px;
+
+  font-family: "Roboto Slab";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 101.38%;
+  /* or 32px */
+
+  color: #000000;
+}
+.ttext2 {
+  position: absolute;
+  width: 383.41px;
+  height: 216.61px;
+  left: 72px;
+  top: 120.29px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  /* or 21px */
+
+  color: #000000;
+}
+.timgb img {
+  position: absolute;
+  width: 181.86px;
+  height: 182.44px;
+  left: 565.45px;
+  top: 134.19px;
+}
+.tp1 {
+  position: absolute;
+  width: 86.88px;
+  height: 22.59px;
+  left: 72px;
+  top: 407px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 130%;
+  /* or 19px */
+
+  color: #000000;
+}
+.tsp1 {
+  position: absolute;
+  width: 86.88px;
+  height: 22.59px;
+  left: 72px;
+  top: 450.17px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 130%;
+  /* or 14px */
+
+  color: #000000;
+}
+.tp2 {
+  position: absolute;
+  width: 86.88px;
+  height: 22.59px;
+  left: 213.9px;
+  top: 407px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 130%;
+  /* or 19px */
+
+  color: #000000;
+}
+.tsp2 {
+  position: absolute;
+  width: 108px;
+  height: 23px;
+  left: 214.1px;
+  top: 449.95px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 130%;
+  /* or 14px */
+
+  color: #000000;
+}
+.tp3 {
+  position: absolute;
+  width: 86.88px;
+  height: 22.59px;
+  left: 354.63px;
+  top: 407px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 130%;
+  /* or 19px */
+
+  color: #000000;
+}
+.tsp3 {
+  position: absolute;
+  width: 86.88px;
+  height: 22.59px;
+  left: 354.63px;
+  top: 450.17px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 130%;
+  /* or 14px */
+
+  color: #000000;
+}

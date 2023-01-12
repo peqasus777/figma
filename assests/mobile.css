@@ -1,0 +1,143 @@
+.mobile {
+  position: relative;
+  width: 375px;
+  height: 776px;
+  background: #ffff;
+}
+.mtext1 {
+  position: absolute;
+  width: 170.08px;
+  height: 43.34px;
+  left: 36px;
+  top: 56px;
+
+  font-family: "Roboto Slab";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 101.38%;
+  /* or 26px */
+
+  color: #000000;
+}
+.mtext2 {
+  position: absolute;
+  width: 308.47px;
+  height: 174.27px;
+  left: 36px;
+  top: 107.72px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 150%;
+  /* or 18px */
+
+  color: #000000;
+}
+.mimgb img {
+  position: absolute;
+  width: 146.32px;
+  height: 146.78px;
+  left: 113.12px;
+  top: 338px;
+}
+.mp1 {
+  position: absolute;
+  width: 69.9px;
+  height: 18.17px;
+  left: 35px;
+  top: 544px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 130%;
+  /* or 16px */
+
+  color: #000000;
+}
+.msp1 {
+  position: absolute;
+  width: 86px;
+  height: 18px;
+  left: 35px;
+  top: 573px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 130%;
+  /* or 13px */
+
+  color: #000000;
+}
+
+.mp2 {
+  position: absolute;
+  width: 69.9px;
+  height: 18.17px;
+  left: 154.16px;
+  top: 544px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 130%;
+  /* or 16px */
+
+  color: #000000;
+}
+.msp2 {
+  position: absolute;
+  width: 86.89px;
+  height: 18.5px;
+  left: 154.33px;
+  top: 572.46px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 130%;
+  /* or 13px */
+
+  color: #000000;
+}
+
+.mp3 {
+  position: absolute;
+  width: 69.9px;
+  height: 18.17px;
+  left: 35px;
+  top: 615px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 130%;
+  /* or 16px */
+
+  color: #000000;
+}
+.msp3 {
+  position: absolute;
+  width: 76px;
+  height: 18px;
+  left: 35px;
+  top: 644px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 130%;
+  /* or 13px */
+
+  color: #000000;
+}

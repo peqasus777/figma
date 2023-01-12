@@ -1,0 +1,151 @@
+.desktop {
+  position: relative;
+  width: 1440px;
+  height: 1046px;
+  background: #ffff;
+}
+.text1 {
+  position: absolute;
+  width: 365px;
+  height: 93px;
+  left: 124px;
+  top: 91px;
+
+  font-family: "Roboto Slab";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 101.38%;
+  /* or 56px */
+
+  color: #000000;
+}
+.text2 {
+  position: absolute;
+  width: 662px;
+  height: 374px;
+  left: 124px;
+  top: 202px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 150%;
+  /* or 36px */
+
+  color: #000000;
+}
+.imgb img {
+  position: absolute;
+  width: 314px;
+  height: 315px;
+  left: 976px;
+  top: 226px;
+}
+.imgs img {
+  position: absolute;
+  width: 232px;
+  height: 203px;
+  left: 124px;
+  top: 670px;
+}
+
+.p1 {
+  position: absolute;
+  width: 150px;
+  height: 39px;
+  left: 488px;
+  top: 740px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 130%;
+  /* or 32px */
+
+  color: #000000;
+}
+.sp1 {
+  position: absolute;
+  width: 150px;
+  height: 39px;
+  left: 488px;
+  top: 800px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 130%;
+  /* or 23px */
+
+  color: #000000;
+}
+.p2 {
+  position: absolute;
+  width: 150px;
+  height: 39px;
+  left: 733px;
+  top: 740px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 130%;
+  /* or 32px */
+
+  color: #000000;
+}
+.sp2 {
+  position: absolute;
+  width: 150px;
+  height: 39px;
+  left: 733px;
+  top: 800px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 130%;
+  /* or 23px */
+
+  color: #000000;
+}
+.p3 {
+  position: absolute;
+  width: 150px;
+  height: 39px;
+  left: 976px;
+  top: 740px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 130%;
+  /* or 32px */
+
+  color: #000000;
+}
+.sp3 {
+  position: absolute;
+  width: 150px;
+  height: 39px;
+  left: 976px;
+  top: 800px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 130%;
+  /* or 23px */
+
+  color: #000000;
+}
+
+
